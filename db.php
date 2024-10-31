@@ -2,8 +2,8 @@
 
 class Produto {
     private $conn;   
-    private $host = "65.108.237.84";
-    private $db = "prog_web";
+    private $host = "mysql.jrcf.dev";
+    private $db = "escola";
     private $user = "usrapp";
     private $pass = "010203";
     
